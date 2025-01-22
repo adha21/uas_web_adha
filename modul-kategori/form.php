@@ -24,7 +24,7 @@
             <form action="proses.php" method="post">
                 <div class="mb-3">
                     <label for="exampleInputPassword1" class="form-label">Nama Kategori</label>
-                    <input type="text" name="jurusan" class="form-control" id="exampleInputPassword1">
+                    <input type="text" name="nama_kategori" class="form-control" id="exampleInputPassword1">
                 </div>
                 
                 <button type="submit" class="btn btn-primary">Submit</button>
