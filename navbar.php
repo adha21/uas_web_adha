@@ -10,7 +10,7 @@
           <a class="nav-link active" aria-current="page" href="/uas_web_adha/uas_web_adha/index.php">Beranda</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href=#>Buku</a>
+          <a class="nav-link active" aria-current="page" href="/uas_web_adha/uas_web_adha/modul-buku/index.php">Buku</a>
         </li>
         <li class="nav-item">
           <a class="nav-link active" aria-current="page" href=#>Kategori Buku</a>
